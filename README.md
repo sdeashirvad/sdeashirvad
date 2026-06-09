@@ -57,7 +57,7 @@ AI-assisted ETL failure diagnosis and remediation platform for Airflow-centric o
 
 AI-driven 360 wellness and fitness ecosystem currently under active development.
 
-🌐 https://veera.ashirvad.work
+🌐 https://tryveera.ashirvad.work
 
 ---
 
